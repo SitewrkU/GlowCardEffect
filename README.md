@@ -3,6 +3,8 @@
 # ✨ Holy Cat Card
 
 Інтерактивна карточка з неоновим glow та 3D-тильтом за курсором
+<br>
+[![Holy Cat Card Preview](./preview.png)](https://sitewrku.github.io/GlowCardEffect/)
 
 <br>
 
